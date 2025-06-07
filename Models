@@ -1,0 +1,2 @@
+The file shape_predictor_68_face_landmarks.dat is a pre-trained facial landmark detector model, which detects 68 facial landmarks like eyebrows, eyes, nose, lips, and jawline.
+Here is the link for that model - https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks
